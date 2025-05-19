@@ -28,6 +28,11 @@
     background: linear-gradient(180deg, rgba(2, 6, 23, 0) 0%, #020617 100%);    
 }
 
+.intro .card-principal{
+    margin-right: 16px;
+
+}
+
 .intro .card-principal p{
     margin-right: 16px;
     font: var(--heading1);
