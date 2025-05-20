@@ -141,7 +141,7 @@
 }
 
 .noticias-destaques .text-destaque span{
-    margin: 8px;
+    margin-bottom: 8px;
     background-color: var(--brand-color-dark);
     padding: 4px 8px;
     border-radius: 4px;
@@ -231,6 +231,7 @@
     font: var(--span);
     color: var(--text-color-primary);
     font: var(--paragraph);
+    padding: 4px 8px;
 }
 
 .text-news h2{
